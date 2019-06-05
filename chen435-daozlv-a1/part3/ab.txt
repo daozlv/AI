@@ -1,0 +1,4 @@
+a 0 b c
+b 2 a c,d
+c 3 d a,b
+d 2 c a,b
