@@ -1,5 +1,0 @@
-a 0 b,c d,e
-b 2 c,d a
-c 3 d,e b
-d 1 e a,b
-e 0 a b,c
